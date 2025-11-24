@@ -22,7 +22,6 @@ header {
   letter-spacing: 2px;
   text-transform: uppercase;
   box-shadow: 0 5px 20px rgba(0,0,0,0.25);
-  header {
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -216,3 +215,4 @@ footer {
 
 
     
+
